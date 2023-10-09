@@ -1,0 +1,8 @@
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\bin\Debug\PF_Progra1_CristoferSanchez.exe.config
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\bin\Debug\PF_Progra1_CristoferSanchez.exe
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\bin\Debug\PF_Progra1_CristoferSanchez.pdb
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\obj\Debug\PF_Progra1_CristoferSanchez.csproj.AssemblyReference.cache
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\obj\Debug\PF_Progra1_CristoferSanchez.csproj.SuggestedBindingRedirects.cache
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\obj\Debug\PF_Progra1_CristoferSanchez.csproj.CoreCompileInputs.cache
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\obj\Debug\PF_Progra1_CristoferSanchez.exe
+C:\Users\cristofer\Desktop\PF_Progra1_CristoferSanchez\obj\Debug\PF_Progra1_CristoferSanchez.pdb
